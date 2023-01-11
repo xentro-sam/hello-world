@@ -1,1 +1,2 @@
 Writing in file B
+Added another line in file B
